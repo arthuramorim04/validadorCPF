@@ -101,7 +101,7 @@ int main(int argc, char *argv[]) {
 			NULL,        // tty
 			"teste", // dbName
 			"postgres",  // login
-			"746369"      // password
+			"1234"      // password
 			);
 
 	// Verificar conexão
